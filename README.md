@@ -6,7 +6,7 @@ Trabajo Práctico Integrador de Frontend hecho con HTML5, CSS y Bootstrap.
 ![codoacodo](https://user-images.githubusercontent.com/83146564/137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3.png)
 
 ### En Github Pages
-
+https://iancinti.github.io/tpfrontendcac/
 
 ### En Netlify
 https://tpfrontendcac-iancinti.netlify.app/
